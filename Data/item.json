@@ -1,0 +1,23 @@
+    {
+        "Ticket":{
+        "Name":"Vé nhiệm vụ",
+        "em":"<:sq:1135118569449984083>",
+       "Des":"Dùng để Skip nhiệm vụ",
+        "Id":"1",
+        "Time":0,
+        "Price":{
+            "a":4000,
+            "b":3250
+        }
+    },
+    "XP":{
+       "Name":"Chai thuốc x2 EXP",
+       "em":"<a:xb:1135229290858950837>",
+       "Des":"Tăng gấp đôi EXP trong 20 phút",
+       "Id":"2",
+       "Time":1200000,
+       "Price":{
+         "a" :11500,
+         "b":10200
+        }
+    }}
